@@ -1,0 +1,32 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataParser", "DataParser\DataParser.csproj", "{F366CACA-C459-4C98-B616-EBA4C7E19975}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixProcessor", "MatrixProcessor\MatrixProcessor.csproj", "{7B6AE353-0E26-4F5F-8A10-EA42598B22C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{97DE633A-B31C-470E-98DA-E17DEC939FC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F366CACA-C459-4C98-B616-EBA4C7E19975}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F366CACA-C459-4C98-B616-EBA4C7E19975}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F366CACA-C459-4C98-B616-EBA4C7E19975}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F366CACA-C459-4C98-B616-EBA4C7E19975}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B6AE353-0E26-4F5F-8A10-EA42598B22C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B6AE353-0E26-4F5F-8A10-EA42598B22C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B6AE353-0E26-4F5F-8A10-EA42598B22C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B6AE353-0E26-4F5F-8A10-EA42598B22C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97DE633A-B31C-470E-98DA-E17DEC939FC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97DE633A-B31C-470E-98DA-E17DEC939FC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97DE633A-B31C-470E-98DA-E17DEC939FC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97DE633A-B31C-470E-98DA-E17DEC939FC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
