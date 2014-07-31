@@ -1,4 +1,4 @@
-Enter file contents here// --------------------------------------------------------------------------------------------------------------------
+// --------------------------------------------------------------------------------------------------------------------
 // <copyright file="ConsolidatedMdsEventRecordBuilder.cs" company="Microsoft">
 //   Copyright (c) Microsoft Corporation.  All rights reserved.
 // </copyright>
