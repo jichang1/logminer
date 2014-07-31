@@ -45,12 +45,7 @@
     <Compile Include="ConsolidatedMdsEventRecordBuilder.cs" />
     <Compile Include="DataParser.cs" />
     <Compile Include="MinimumMdsEvent.cs" />
-    <Compile Include="OaasMdsEvent.cs" />
     <Compile Include="MdsParser.cs" />
-    <Compile Include="Properties\AssemblyInfo.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="App.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
