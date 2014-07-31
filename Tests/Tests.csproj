@@ -42,7 +42,6 @@
   <ItemGroup>
     <Compile Include="DataParserTests.cs" />
     <Compile Include="MdsParserTests.cs" />
-    <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\DataParser\DataParser.csproj">
